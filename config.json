@@ -1,0 +1,5 @@
+{
+    "language": "en-US",
+    "command_file": "command.config",
+    "phrases_file": "commands.txt"
+}
